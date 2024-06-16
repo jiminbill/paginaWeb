@@ -1,0 +1,57 @@
+<Canvas Height="793.7" Name="Workspace" Width="1122.5" xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<!-- Page Service -->
+	<Canvas Width="1122.5" Height="793.7" Name="D">
+		<Canvas.Background>
+			<SolidColorBrush Color="#FFFFFFFF"/>
+		</Canvas.Background>
+		<Canvas Tag="_1" Name="_1">
+			<Image Name="img5_1" Source="2E8CCC8C-0777-4690-BAB9-21C9BEAC77A5.jpg" Stretch="Fill" Canvas.Left="0"
+					Canvas.Top="2.11914E-05" Width="1122.52" Height="793.701" Opacity="1"/>
+		</Canvas>
+		<Canvas Tag="_2" Name="_2" RenderTransform="1, 0, 0, 1, 963.779502, -18.897638">
+			<Rectangle Canvas.Top="755.91" Height="37.795" Name="_2_G0_P0" Width="134.74">
+				<Rectangle.Fill>
+					<SolidColorBrush Color="#FFEA700D"/>
+				</Rectangle.Fill>
+			</Rectangle>
+			<Canvas>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 755.905512" FontRenderingEmSize="0.25"
+						FontUri="08711BD9-159F-4FE2-A52B-E2280C2F9B54.odttf" Indices="47" OriginX="0.42846" OriginY="0.27185">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 755.905512" FontRenderingEmSize="0.25"
+						FontUri="08711BD9-159F-4FE2-A52B-E2280C2F9B54.odttf" Indices="374" OriginX="0.49144" OriginY="0.27185">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 755.905512" FontRenderingEmSize="0.25"
+						FontUri="08711BD9-159F-4FE2-A52B-E2280C2F9B54.odttf" Indices="349" OriginX="0.62279" OriginY="0.27185">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 755.905512" FontRenderingEmSize="0.25"
+						FontUri="08711BD9-159F-4FE2-A52B-E2280C2F9B54.odttf" Indices="272" OriginX="0.68016" OriginY="0.27185">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 755.905512" FontRenderingEmSize="0.25"
+						FontUri="08711BD9-159F-4FE2-A52B-E2280C2F9B54.odttf" Indices="349" OriginX="0.78588" OriginY="0.27185">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+				<Glyphs RenderTransform="96, 0, 0, 96, 0, 755.905512" FontRenderingEmSize="0.25"
+						FontUri="08711BD9-159F-4FE2-A52B-E2280C2F9B54.odttf" Indices="381" OriginX="0.84325" OriginY="0.27185">
+					<Glyphs.Fill>
+						<SolidColorBrush Color="#FF000000"/>
+					</Glyphs.Fill>
+				</Glyphs>
+			</Canvas>
+		</Canvas>
+	</Canvas>
+</Canvas>
